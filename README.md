@@ -15,9 +15,12 @@ Para ejecutar el script es necesario instalar la siguientes librerías:
 > * install.packages("dplyr")
 > * install.packages("chron")
 
-## Ficheros del código fuente
+## Ficheros
 
-**luilop_PRA2.R**: fichero en R con la limpieza, análisis y representación de los datos sobre el juego de datos athletes.csv
+**codigo/luilop_PRA2.R**: fichero en R con la limpieza, análisis y representación de los datos sobre el juego de datos athletes.csv.
+**luilop_PRA2.pdf**: un documento PDF con las respuestas a las preguntas.
+**dataset/athletes.csv**: el fichero CSV con los datos originales.
+**dataset/athletesFinal.csv**: el fichero CSV con los datos finales analizados.
 
 ## Recursos
 
