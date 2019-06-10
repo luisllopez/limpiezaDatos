@@ -17,7 +17,7 @@ Para ejecutar el script es necesario instalar la siguientes librerías:
 
 ## Ficheros del código fuente
 
-**luilop_PRA2.R**: fichero en R con la limpieza, analisis y representacion de los datos sobre el juego de datos athletes.csv
+**luilop_PRA2.R**: fichero en R con la limpieza, análisis y representación de los datos sobre el juego de datos athletes.csv
 
 ## Recursos
 
